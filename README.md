@@ -22,4 +22,4 @@ Keep track of your work, including iOS、Android、Web、miniApp development； 
 
 ## Mac
 
- [Mac 中文](Mac/Mac-zh.md)
+ [Mac 中文](Mac Software/Mac-zh.md)
